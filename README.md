@@ -19,7 +19,7 @@ The analysis highlighted top-performing product categories, sales trends across 
 📌 Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 Skills: Jupyter Notebook · Python( Pandas, NumPy, Matplotlib, Seaborn)
 
-## Dataset Used:
+## Dataset Used:👇
 <a href="https://github.com/tannu0415/-Blinkit-Data-Analysis-using-Python/blob/8c64f0c9f3e72b3b9f04a04a29e80cffc1e3a1d9/BlinkIT%20Grocery%20Data.csv">Dataset Used</a>
 
 ### BUSINESS REQUIREMENTS
@@ -54,4 +54,5 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 broken down by different outlet types.
 Chart Type: Matrix Card.
 
-## Result file:
+## Result file:👇
+<a href="https://github.com/tannu0415/-Blinkit-Data-Analysis-using-Python/blob/fcacdba0a5a21404bd93c6a3b9be947fc1e7bebc/Blinkit%20Analysis%20in%20python%20(1).pdf">Result File</a>
